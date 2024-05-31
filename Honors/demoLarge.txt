@@ -1,0 +1,8 @@
+i
+9
+thousands.txt
+r
+yes
+4
+yes
+q

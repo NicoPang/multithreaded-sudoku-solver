@@ -1,0 +1,8 @@
+i
+9
+guessless.txt
+r
+yes
+1
+yes
+q
